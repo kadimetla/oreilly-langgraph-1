@@ -1,5 +1,6 @@
 ipykernel
-langgraph
+langgraph>=0.4.0
+langchain-tavily
 langchain-openai
 langchain-anthropic
 serpapi
