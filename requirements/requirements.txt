@@ -507,7 +507,7 @@ tiktoken==0.8.0
     #   tavily-python
 tokenizers==0.20.3
     # via chromadb
-tornado==6.4.1
+tornado==6.5.5
     # via
     #   ipykernel
     #   jupyter-client
